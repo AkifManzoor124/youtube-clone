@@ -1,3 +1,6 @@
+Followed the following youtube link to create a youtube clone:
+https://www.youtube.com/watch?v=NT299zIk2JY&t=12478s&ab_channel=CleverProgrammer
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
